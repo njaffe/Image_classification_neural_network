@@ -49,9 +49,9 @@ Ultimately, I would like this model to be able to identify individual organisms,
 - [Streamlit](https://www.streamlit.io/)
 - [Heroku](https://signup.heroku.com/t/platform?c=70130000001xDpdAAE&gclid=CjwKCAiA_Kz-BRAJEiwAhJNY72Pjw-dMX1joPj11t2zgyeOBsDu9k5nLeEnMLsn7xDCOVookgaWOHxoC6woQAvD_BwE)
 - Other useful tutorials:
-  -[Training the YOLO model using a GPU in Colab walkthrough](https://www.youtube.com/watch?v=10joRJt39Ns&feature=emb_logo) and [notebook](https://colab.research.google.com/drive/1Mh2HP_Mfxoao6qNFbhfV3u28tG8jAVGk) from [The AI Guy](https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q) on YouTube
-  -[Image detection with openCV](https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html#load-the-yolo-network)
-  -[Another great YOLO image detection walkthrough](https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/)
+  -[Training the YOLO model using a GPU in Colab walkthrough](https://www.youtube.com/watch?v=10joRJt39Ns&feature=emb_logo) and [notebook](https://colab.research.google.com/drive/1Mh2HP_Mfxoao6qNFbhfV3u28tG8jAVGk) from [The AI Guy](https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q) on YouTube  
+  -[Image detection with openCV](https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html#load-the-yolo-network)  
+  -[Another great YOLO image detection walkthrough](https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/)  
   
   
 Special thanks to Brian McGarry and Richard Chiou for assistance with experimental design and implementation, and to Ryan Werth and Neda Saleem for assistance with tutorials and troubleshooting.
