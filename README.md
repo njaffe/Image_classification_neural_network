@@ -53,5 +53,7 @@ Ultimately, I would like this model to be able to identify individual organisms,
   -[Image detection with openCV](https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html#load-the-yolo-network)  
   -[Another great YOLO image detection walkthrough](https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/)  
   
-  
+
+Check out the app [here](https://intertidal-invert-identifier.herokuapp.com/)! Blog post incoming.
+
 Special thanks to Brian McGarry and Richard Chiou for assistance with experimental design and implementation, and to Ryan Werth and Neda Saleem for assistance with tutorials and troubleshooting!
