@@ -133,10 +133,33 @@ def set_png_as_page_bg(png_file):
 
 set_png_as_page_bg('/users/noah/Github_repos/Project_5/background_image.png')
 
-st.title('Intertidal Organism Detection App')
+# st.title('Intertidal Organism Detection App')
+st.title('The Intertidal Invertebrate Classifier')
+
 st.text('Built with Streamlit, Yolov3 and OpenCV')
-st.text('Background image: https://www.worldatlas.com/articles/what-is-the-intertidal-zone.html')
-st.text('Background code: https://discuss.streamlit.io/t/how-do-i-use-a-background-image-on-streamlit/5067/3')
+# st.text('Background image: https://www.worldatlas.com/articles/what-is-the-intertidal-zone.html')
+# st.text('Background code: https://discuss.streamlit.io/t/how-do-i-use-a-background-image-on-streamlit/5067/3')
+# st.write('Noah Jaffe')
+
+st.markdown(
+    """<h2 style='display: block; text-align: center;'>Noah Jaffe</a>
+    """,
+    unsafe_allow_html=True,
+)
+
+# st.write('[Github](https://github.com/njaffe)  [Blog](https://noah-jaffe.medium.com)')
+st.markdown(
+    """<a style='display: block; text-align: center;' href="https://github.com/njaffe">Github</a>
+    """,
+    unsafe_allow_html=True,
+)
+
+st.markdown(
+    """<a style='display: block; text-align: center;' href="https://noah-jaffe.medium.com">Blog</a>
+    """,
+    unsafe_allow_html=True,
+)
+
 st.write('**********************************************************************')
 
 ################################################################################
