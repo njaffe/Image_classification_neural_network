@@ -1,4 +1,4 @@
-# Project_5 Using image classification to identify intertidal invertebrate phyla
+# Project 5: Using a neural network to classify images of intertidal invertebrates
 
 My Metis project 5.
 
